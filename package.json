@@ -18,7 +18,9 @@
     "image-scraper": "^0.2.1",
     "metascraper": "^4.8.4",
     "mongoose": "^5.4.0",
+    "mongoose-cli": "^1.0.5",
     "node-article-extractor": "^1.1.2",
+    "request": "^2.88.0",
     "scrape-it": "^5.1.1",
     "website-scraper": "^4.0.0"
   }
